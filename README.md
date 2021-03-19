@@ -9,7 +9,7 @@ We are given output file aquired as a result of scanning of a supermarket bill i
 
 # Compiling and Running 
 
-In order to run program one has to use: 
+In order to run program one has to use in a folder including main.py and response.json files : 
 ~~~~~~~~~~~~~~~{.py}
     python3 main.py
 ~~~~~~~~~~~~~~~
