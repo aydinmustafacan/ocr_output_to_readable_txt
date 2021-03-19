@@ -1,5 +1,5 @@
 # OCR Output to Readable Text
-Project by Mustafa Can Aydin
+Project by Mustafa Can Aydin \
 Notes: I have written and tested this code in Python 3.8.7 using MacOS Big Sur version 11.2.3
 
 # Explanation
